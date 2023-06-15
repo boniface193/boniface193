@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ikechukwu Boniface</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer from Nigeria, With over 3years of experience designing and developing responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript, Vuejs, and Express.js with a strong eye for design and attention to detail. Experienced in working with cross-functional teams and committed to delivering high-quality work. Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
 
 - 🔭 I’m currently working on [House Help Technology](myhousehelp.ng)
 
-- 🌱 I’m currently learning **kotlin, currently learning**
+- 🌱 I’m currently learning **kotlin**
 
 - 👯 I’m looking to collaborate on **Nodejs backend project**
 
@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bidtechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bidtechnologies" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/boniface-ikechukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniface-ikechukwu/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/boniface.ikechukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/boniface.ikechukwu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/boniface-ikechukwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniface-ikechukwu/" height="30" width="40" /></a>
+<a href="https://fb.com/boniface.ikechukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/boniface.ikechukwu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

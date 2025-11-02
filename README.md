@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer from Nigeria with **5+ years** of experience crafting responsive, user-centric web applications. I specialize in the JavaScript ecosystem and have a keen eye for design and performance optimization.
+I'm a passionate full-stack developer from Nigeria with **6+ years** of experience crafting responsive, user-centric web applications. I specialize in the JavaScript ecosystem and have a keen eye for design and performance optimization.
 
 **What I bring to the table:**
 - 🎯 Full-stack proficiency (Frontend + Backend + DevOps)
@@ -29,15 +29,12 @@ Revolutionizing the domestic staffing industry through technology - building a c
 ## 🛠 Tech Stack
 
 ### **Frontend Development**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-ee6e73?style=for-the-badge&logo=materialize&logoColor=white)
+**React**
+**Vue**
+**Nuxt js**
+**Next js**
+**Tailwind**
+**Bootstrap**
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -71,7 +68,7 @@ Revolutionizing the domestic staffing industry through technology - building a c
 
 ## 📫 Get In Touch
 
-- **Email:** [bonifacedennis99@gmail.com](mailto:bonifacedennis99@gmail.com)
+- **Email:** [bonifacedennis100@gmail.com](mailto:bonifacedennis99@gmail.com)
 - **Portfolio:** [https://boniface193.github.io/my-portfolio/](https://boniface193.github.io/my-portfolio/)
 - **LinkedIn:** [Boniface Ikechukwu](https://www.linkedin.com/in/boniface-ikechukwu/)
 - **Twitter:** [@bidtechnologies](https://twitter.com/bidtechnologies)
